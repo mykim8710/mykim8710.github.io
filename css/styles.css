@@ -80,17 +80,17 @@ header li {
 }
 header a {
     display: block;
-    color: #3498db;
+    color: #004394;
     padding: 10px;
 }
 header a:hover {
-    color: #217dbb;
+    color: #ffffff;
     text-decoration: none;
-    background: #eee;
+    background: #f2c31f;
     border-radius: 4px;
 }
 header a:focus {
-    color: #3498db;
+    color: #004394;
     text-decoration: none;
 }
 header.active {
@@ -206,17 +206,17 @@ footer {
     font-weight: 300;
     margin: 0 0 30px;
 }
-.heading:after {
+/* .heading:after {
     position: absolute;
     content: '';
     top: 100%;
     height: 1px;
-    width: 50px;
+    width: 250px;
     left: 0;
     right: 0;
     margin: 0 auto;
-    background: #3498db;
-}
+    background: #004394;
+} */
 .background-alt {
     background: #f2f2f5;
 }
@@ -336,7 +336,7 @@ footer {
     right: auto;
     height: 100%;
     width: 3px;
-    background: #3498db;
+    background: #004394;
     z-index: 0;
 }
 #experience-timeline:after {
@@ -344,8 +344,8 @@ footer {
     content: '';
     width: 3px;
     height: 40px;
-    background: #3498db;
-    background: linear-gradient(to bottom, #3498db, rgba(52,152,219,0));
+    background: #004394;
+    background: linear-gradient(to bottom, #004394, rgba(52,152,219,0));
     top: 100%;
     left: 303px;
 }
@@ -383,10 +383,10 @@ footer {
 }
 .vtimeline-icon {
     position: relative;
-    color: #fff;
+    color: #f2c31f;
     width: 50px;
     height: 50px;
-    background: #3498db;
+    background: #004394;
     border-radius: 50%;
     float: left;
     z-index: 99;
@@ -520,7 +520,7 @@ footer {
 }
 #contact {
     padding: 50px 15px;
-    background: #3498db;
+    background: #004394;
     text-align: center;
 }
 #contact h2 {
@@ -540,7 +540,7 @@ footer {
     border-radius: 4px;
     border: none;
     margin-bottom: 10px;
-    background: #1d6fa5;
+    background: #c1c8cc;
     color: #fff;
     transition: 0.5s ease all;
 }
@@ -574,11 +574,11 @@ footer {
 #contact-form button {
     display: block;
     width: 100%;
-    background: #fff;
+    background: #f2c31f;
     border-radius: 4px;
     padding: 5px 10px;
     border: none;
-    color: #3498db;
+    color: #ffffff;
     font-weight: 700;
     box-shadow: 0 1px 3px rgba(0,0,0,0.12),0 1px 2px rgba(0,0,0,0.24);
     transition: 0.5s ease all;

@@ -1,4 +1,4 @@
-# MYKIM Web Portfolio
+# MYKIM's Web Portfolio
 - 인사말(About)  
 - 경력(Career)  
 - 학력사항(Education)  

@@ -109,7 +109,7 @@ header.sticky {
     position: fixed;
     right: 15px;
     top: 10px;
-    color: #3498db;
+    color: #004394;
     font-size: 1.5em;
     z-index: 20;
     padding: 0 7px;
@@ -125,7 +125,7 @@ header.sticky {
     padding-right: 15px;
     padding-top: 10px;
     cursor: pointer;
-    color: #3498db;
+    color: #004394;
 }
 #mobile-menu-close span {
     font-size: 0.5em;
@@ -178,7 +178,7 @@ footer {
     padding: 10px;
 }
 .social a:hover {
-    color: #3498db;
+    color: #004394;
 }
 .btn-rounded-white {
     display: inline-block;
@@ -189,7 +189,7 @@ footer {
     transition: 0.5s ease all;
 }
 .btn-rounded-white:hover {
-    color: #3498db;
+    color: #004394;
     background: #fff;
     text-decoration: none;
 }
@@ -206,17 +206,7 @@ footer {
     font-weight: 300;
     margin: 0 0 30px;
 }
-/* .heading:after {
-    position: absolute;
-    content: '';
-    top: 100%;
-    height: 1px;
-    width: 250px;
-    left: 0;
-    right: 0;
-    margin: 0 auto;
-    background: #004394;
-} */
+
 .background-alt {
     background: #f2f2f5;
 }
@@ -308,7 +298,7 @@ footer {
     border-bottom: 1px solid #dcd9d9;
 }
 #about h2 {
-    color: #374054;
+    color: #1a1b1d;
 }
 #about p {
     color: #74808a;
@@ -320,7 +310,7 @@ footer {
     border-bottom: 1px solid #dcd9d9;
 }
 #experience h2 {
-    color: #374054;
+    color: #1a1b1d;
 }
 #experience-timeline {
     margin: 30px auto 0;
@@ -383,7 +373,7 @@ footer {
 }
 .vtimeline-icon {
     position: relative;
-    color: #f2c31f;
+    color: #ffffff;
     width: 50px;
     height: 50px;
     background: #004394;
@@ -412,7 +402,7 @@ footer {
     text-align: center;
 }
 #education h2 {
-    color: #374054;
+    color: #1a1b1d;
     margin-bottom: 50px;
 }
 .education-block {
@@ -453,7 +443,7 @@ footer {
     text-align: center;
 }
 #projects h2 {
-    color: #374054;
+    color: #1a1b1d;
     margin-bottom: 50px;
 }
 .project {
@@ -499,7 +489,7 @@ footer {
     text-align: center;
 }
 #skills h2 {
-    color: #374054;
+    color: #1a1b1d;
     margin-bottom: 50px;
 }
 #skills ul {
